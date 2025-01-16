@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EfDbFirstCustomerProject", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDbFirstProject", "EntityFrameworkDbFirstProject\EntityFrameworkDbFirstProject.csproj", "{17BC915F-3061-42A8-AAC9-B1AD92E7A96C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EfStatisticsProject", "EfStatisticsProject", "{912B6A56-4F76-44B0-B06C-5DB4F0739743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfStatisticsProject", "EfStatisticsProject\EfStatisticsProject\EfStatisticsProject.csproj", "{7B79AB05-0855-47E6-8D61-F3D21093BBA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{17BC915F-3061-42A8-AAC9-B1AD92E7A96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17BC915F-3061-42A8-AAC9-B1AD92E7A96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17BC915F-3061-42A8-AAC9-B1AD92E7A96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B79AB05-0855-47E6-8D61-F3D21093BBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B79AB05-0855-47E6-8D61-F3D21093BBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B79AB05-0855-47E6-8D61-F3D21093BBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B79AB05-0855-47E6-8D61-F3D21093BBA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +40,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6797E61F-11A7-4B3B-A3EA-5048C09D41B1} = {D6747FD8-54F8-4F2B-96FC-E839D6AE411E}
 		{17BC915F-3061-42A8-AAC9-B1AD92E7A96C} = {9575B692-60A0-4AC3-B6A5-76BF06AF2B26}
+		{7B79AB05-0855-47E6-8D61-F3D21093BBA8} = {912B6A56-4F76-44B0-B06C-5DB4F0739743}
 	EndGlobalSection
 EndGlobal
