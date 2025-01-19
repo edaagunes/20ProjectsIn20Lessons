@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EfStatisticsProject", "EfSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfStatisticsProject", "EfStatisticsProject\EfStatisticsProject\EfStatisticsProject.csproj", "{7B79AB05-0855-47E6-8D61-F3D21093BBA8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EfCodeFirstMovieProject", "EfCodeFirstMovieProject", "{A1A6710F-CEF9-405B-A99C-9D8F01D04750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieProject", "EfCodeFirstMovieProject\MovieProject\MovieProject.csproj", "{A7043CF2-2A27-4D53-B3F1-94DC401006B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{7B79AB05-0855-47E6-8D61-F3D21093BBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B79AB05-0855-47E6-8D61-F3D21093BBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B79AB05-0855-47E6-8D61-F3D21093BBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7043CF2-2A27-4D53-B3F1-94DC401006B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7043CF2-2A27-4D53-B3F1-94DC401006B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7043CF2-2A27-4D53-B3F1-94DC401006B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7043CF2-2A27-4D53-B3F1-94DC401006B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,5 +49,6 @@ Global
 		{6797E61F-11A7-4B3B-A3EA-5048C09D41B1} = {D6747FD8-54F8-4F2B-96FC-E839D6AE411E}
 		{17BC915F-3061-42A8-AAC9-B1AD92E7A96C} = {9575B692-60A0-4AC3-B6A5-76BF06AF2B26}
 		{7B79AB05-0855-47E6-8D61-F3D21093BBA8} = {912B6A56-4F76-44B0-B06C-5DB4F0739743}
+		{A7043CF2-2A27-4D53-B3F1-94DC401006B9} = {A1A6710F-CEF9-405B-A99C-9D8F01D04750}
 	EndGlobalSection
 EndGlobal
