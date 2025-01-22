@@ -39,6 +39,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoDbOrderProject", "Mong
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbOrder", "MongoDbOrderProject\MongoDbOrder\MongoDbOrder.csproj", "{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PostgreSqlToDoProject", "PostgreSqlToDoProject", "{42FDB796-44A4-4B71-BBD9-3A50239D58D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgreToDoProject", "PostgreSqlToDoProject\PostgreToDoProject\PostgreToDoProject.csproj", "{2338EFA1-285C-47D4-9428-9714CB7202CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,10 @@ Global
 		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2338EFA1-285C-47D4-9428-9714CB7202CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2338EFA1-285C-47D4-9428-9714CB7202CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2338EFA1-285C-47D4-9428-9714CB7202CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2338EFA1-285C-47D4-9428-9714CB7202CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,5 +103,6 @@ Global
 		{45A04443-4BD3-4E3A-A05B-18D44EE3CA3D} = {89A38B0F-0B98-477C-B087-7E9C3C89730A}
 		{1D0CB090-2256-4649-866E-43528413739F} = {957B67BA-728B-47B3-9EBA-ED4AC891130C}
 		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49} = {0B3FE680-C5C0-499C-B4FD-4B22B5B5BAFE}
+		{2338EFA1-285C-47D4-9428-9714CB7202CB} = {42FDB796-44A4-4B71-BBD9-3A50239D58D8}
 	EndGlobalSection
 EndGlobal
