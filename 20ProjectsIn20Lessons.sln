@@ -35,6 +35,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RapidApiCurrencyProject", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidApiCurrency", "RapidApiCurrencyProject\RapidApiCurrency\RapidApiCurrency.csproj", "{1D0CB090-2256-4649-866E-43528413739F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoDbOrderProject", "MongoDbOrderProject", "{0B3FE680-C5C0-499C-B4FD-4B22B5B5BAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbOrder", "MongoDbOrderProject\MongoDbOrder\MongoDbOrder.csproj", "{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,10 @@ Global
 		{1D0CB090-2256-4649-866E-43528413739F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D0CB090-2256-4649-866E-43528413739F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D0CB090-2256-4649-866E-43528413739F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,5 +94,6 @@ Global
 		{0FE71C58-CFFD-48FB-8611-252D15E98C0E} = {38F9FF50-F06B-4696-8464-0093C040F0E4}
 		{45A04443-4BD3-4E3A-A05B-18D44EE3CA3D} = {89A38B0F-0B98-477C-B087-7E9C3C89730A}
 		{1D0CB090-2256-4649-866E-43528413739F} = {957B67BA-728B-47B3-9EBA-ED4AC891130C}
+		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49} = {0B3FE680-C5C0-499C-B4FD-4B22B5B5BAFE}
 	EndGlobalSection
 EndGlobal
