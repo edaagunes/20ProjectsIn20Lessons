@@ -47,6 +47,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TriggerOrderStockProject", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerOrderProject", "TriggerOrderStockProject\TriggerOrderProject\TriggerOrderProject.csproj", "{47D411A6-E124-43A6-B119-D6D8DF67036E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JsonWebTokenProject", "JsonWebTokenProject", "{7F0B9011-C137-4FCB-9122-A4FD4BC9AE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtToken", "JsonWebTokenProject\JwtToken\JwtToken.csproj", "{02687544-1318-4C97-B8B5-614593919906}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +101,10 @@ Global
 		{47D411A6-E124-43A6-B119-D6D8DF67036E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47D411A6-E124-43A6-B119-D6D8DF67036E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47D411A6-E124-43A6-B119-D6D8DF67036E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02687544-1318-4C97-B8B5-614593919906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02687544-1318-4C97-B8B5-614593919906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02687544-1318-4C97-B8B5-614593919906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02687544-1318-4C97-B8B5-614593919906}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -113,5 +121,6 @@ Global
 		{DECF1731-24BC-46A6-9482-8A0CA7DD3D49} = {0B3FE680-C5C0-499C-B4FD-4B22B5B5BAFE}
 		{2338EFA1-285C-47D4-9428-9714CB7202CB} = {42FDB796-44A4-4B71-BBD9-3A50239D58D8}
 		{47D411A6-E124-43A6-B119-D6D8DF67036E} = {22E46791-B282-4E22-A698-101E4227CBD4}
+		{02687544-1318-4C97-B8B5-614593919906} = {7F0B9011-C137-4FCB-9122-A4FD4BC9AE00}
 	EndGlobalSection
 EndGlobal
