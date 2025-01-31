@@ -71,6 +71,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KaggleDatasetProject", "Kag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaggleDatasetProject", "KaggleDatasetProject\KaggleDatasetProject\KaggleDatasetProject.csproj", "{16432375-7D1D-4D1C-BFDC-AEAD3C452942}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DashboardSuperStoreProject", "DashboardSuperStoreProject", "{88374661-4FCC-4465-97F2-AF4F1BEAC16C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardSuperStoreProject", "DashboardSuperStoreProject\DashboardSuperStoreProject\DashboardSuperStoreProject.csproj", "{AD9BADCC-55F2-4455-841C-70C961083A2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +149,10 @@ Global
 		{16432375-7D1D-4D1C-BFDC-AEAD3C452942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16432375-7D1D-4D1C-BFDC-AEAD3C452942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16432375-7D1D-4D1C-BFDC-AEAD3C452942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9BADCC-55F2-4455-841C-70C961083A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9BADCC-55F2-4455-841C-70C961083A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9BADCC-55F2-4455-841C-70C961083A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9BADCC-55F2-4455-841C-70C961083A2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -167,5 +175,6 @@ Global
 		{DCDB9E2D-2BB7-468E-8900-DECE5EA14C54} = {7D60D6A5-DAEC-419A-B09B-26A717960F8C}
 		{030BC248-ACE6-460D-A334-544EAB4DE574} = {597D5A9E-9090-40D7-9C0C-2780CF88D4DC}
 		{16432375-7D1D-4D1C-BFDC-AEAD3C452942} = {CC021A35-7C00-4129-8C6D-26BD432762F0}
+		{AD9BADCC-55F2-4455-841C-70C961083A2A} = {88374661-4FCC-4465-97F2-AF4F1BEAC16C}
 	EndGlobalSection
 EndGlobal
