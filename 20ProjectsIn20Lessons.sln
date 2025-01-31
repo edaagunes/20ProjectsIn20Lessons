@@ -59,6 +59,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlRelationsProject", "SqlR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAllRelations", "SqlRelationsProject\SQLAllRelations\SQLAllRelations.csproj", "{8CCBB3E5-685D-45F3-9FFB-432EACB9E747}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GasPriceSimulationProject", "GasPriceSimulationProject", "{7D60D6A5-DAEC-419A-B09B-26A717960F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasPriceSimulation", "GasPriceSimulationProject\GasPriceSimulation\GasPriceSimulation.csproj", "{DCDB9E2D-2BB7-468E-8900-DECE5EA14C54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +125,10 @@ Global
 		{8CCBB3E5-685D-45F3-9FFB-432EACB9E747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CCBB3E5-685D-45F3-9FFB-432EACB9E747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CCBB3E5-685D-45F3-9FFB-432EACB9E747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDB9E2D-2BB7-468E-8900-DECE5EA14C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDB9E2D-2BB7-468E-8900-DECE5EA14C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDB9E2D-2BB7-468E-8900-DECE5EA14C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDB9E2D-2BB7-468E-8900-DECE5EA14C54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -140,5 +148,6 @@ Global
 		{02687544-1318-4C97-B8B5-614593919906} = {7F0B9011-C137-4FCB-9122-A4FD4BC9AE00}
 		{64B6679D-914A-449C-BE9D-DFC6D5A8B966} = {D8783F81-9357-4146-B344-5A7DB50F5B24}
 		{8CCBB3E5-685D-45F3-9FFB-432EACB9E747} = {365D13AD-EF1F-4AE1-94B7-9613DDF0BD41}
+		{DCDB9E2D-2BB7-468E-8900-DECE5EA14C54} = {7D60D6A5-DAEC-419A-B09B-26A717960F8C}
 	EndGlobalSection
 EndGlobal
